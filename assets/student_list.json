@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Kamran Ali",
+        "email": "sainchkamran2@gmail.com",
+        "phone": "03093826723",
+        "batch_year": "2019",
+        "imageURL": "assets/images/students.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Ali Raza",
+        "email": "ali@gmail.com",
+        "phone": "034321915253",
+        "batch_year": "2023",
+        "imageURL": "assets/images/students.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Shan",
+        "email": "shan@gmail.com",
+        "phone": "03231152503",
+        "batch_year": "2023",
+        "imageURL": "assets/images/students.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sajjad",
+        "email": "sajjad@gmail.com",
+        "phone": "03023880430",
+        "batch_year": "2018",
+        "imageURL": "assets/images/students.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Kamran",
+        "email": "ali@gmail.com",
+        "phone": "034321915253",
+        "batch_year": "2023",
+        "imageURL": "assets/images/students.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Babar",
+        "email": "shan@gmail.com",
+        "phone": "03231152503",
+        "batch_year": "2023",
+        "imageURL": "assets/images/students.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Wasim",
+        "email": "kami@gmail.com",
+        "phone": "03027670430",
+        "batch_year": "2018",
+        "imageURL": "assets/images/students.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Hasnain",
+        "email": "ali@gmail.com",
+        "phone": "034321915253",
+        "batch_year": "2023",
+        "imageURL": "assets/images/students.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Zahid",
+        "email": "shan@gmail.com",
+        "phone": "03231152503",
+        "batch_year": "2023",
+        "imageURL": "assets/images/students.jpg"
+    }
+]
